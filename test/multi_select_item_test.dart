@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:multi_select_item/multi_select_item.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('multi_select_item');
