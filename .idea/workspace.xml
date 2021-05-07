@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1226e71-7c3e-4f2d-b938-feec9b248fa4" name="Default Changelist" comment="Null safety migration" />
+    <list default="true" id="e1226e71-7c3e-4f2d-b938-feec9b248fa4" name="Default Changelist" comment="Null safety migration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620334508507</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Null safety migration">
+      <created>1620334779750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620334779750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,24 +95,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Null safety migration" />
     <option name="LAST_COMMIT_MESSAGE" value="Null safety migration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="843" y="394" width="223" height="244" key="#Notifications" timestamp="1620334577182">
+    <state x="843" y="394" width="223" height="244" key="#Notifications" timestamp="1620390227443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="843" y="394" width="223" height="244" key="#Notifications/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620334577182" />
+    <state x="843" y="394" width="223" height="244" key="#Notifications/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620390227443" />
+    <state x="100" y="100" width="1720" height="839" key="AVDManager" timestamp="1620386912937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1720" height="839" key="AVDManager/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620386912937" />
     <state x="464" y="154" key="SettingsEditor" timestamp="1620334766958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620334766958" />
-    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1620334564542">
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1620334787310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620334564542" />
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1360.850@0.0.1920.1040" timestamp="1620334787310" />
     <state x="720" y="311" width="479" height="411" key="git4idea.merge.GitMergeDialog" timestamp="1620334478752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

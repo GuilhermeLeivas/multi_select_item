@@ -49,9 +49,9 @@ class _MyHomePageState extends State<MyHomePage> {
   void delete() {
     var list = controller.selectedIndexes;
     list.sort((b, a) =>
-        a.compareTo(b)); //reoder from biggest number, so it wont error
+        a!.compareTo(b!)); //reoder from biggest number, so it wont error
     list.forEach((element) {
-      mainList.removeAt(element);
+      mainList.removeAt(element!);
     });
 
     setState(() {
